@@ -43,7 +43,7 @@ Este é um Gerador de Senhas Aleatórias desenvolvido com HTML, CSS e JavaScript
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
-👉 [Gerador de Senha - GitHub Pages]()
+👉 [Gerador de Senha - GitHub Pages](https://thiagogosilva.github.io/gerador-senha/)
 
 **Link para visualizar meu Mini Portfólio:**  
 🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
