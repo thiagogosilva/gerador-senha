@@ -26,3 +26,6 @@ Hoje finalizei mais um mini projeto do me desafio-90dias-dev: um Gerador de Senh
 - Interação com a área de transferência usando navigator.clipboard.writeText()
 - Feedback visual com mudanças no texto do botão e temporizador
 - Responsividade com CSS Flexbox e media queries
+
+**Link para visualizar meu Mini Portfólio:**  
+🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
