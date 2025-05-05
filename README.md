@@ -40,6 +40,11 @@ Este é um Gerador de Senhas Aleatórias desenvolvido com HTML, CSS e JavaScript
 - Interação com a área de transferência utilizando navigator.clipboard.writeText().
 - Implementação de design responsivo utilizando CSS Flexbox e media queries.
 
+## 🧑‍💻 Desenvolvido por
+**Thiago Silva**  
+- [GitHub](https://github.com/thiagogosilva)
+- [LinkedIn](https://www.linkedin.com/in/thiagogosilva)
+
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
